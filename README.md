@@ -1,2 +1,4 @@
 # hello-world
-learn form github guide
+learn from github guide
+
+new python learner
